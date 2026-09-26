@@ -1,45 +1,30 @@
-# FoxProject - UE5 Gameplay Ability System (GAS) Portfolio
+# Top-Down GAS RPG
 
-A C++ focused Unreal Engine 5 project demonstrating advanced gameplay mechanics, targeting systems, and technical architecture using the **Gameplay Ability System (GAS)**.
+A top-down RPG project built in Unreal Engine 5 using C++ and Blueprints. The project features enemy combat, experience progression, save-slot creation and loading, persistent player progression, and unlockable and upgradeable abilities.
 
-## 📺 Gameplay Demonstration (Coming Soon)
-[Click here to watch the gameplay video]([REPLACE_WITH_YOUTUBE_LINK])
+## Gameplay Demo
 
----
+[▶ Watch the gameplay demo on YouTube](https://youtu.be/zAmgGT9Vd3M)
 
-## 🛠 Technical Overview
-This repository serves as a **source-code-only** showcase of the project's technical implementation. 
+The gameplay demo shows save-slot creation and loading, combat, experience progression, ability unlocks, ability upgrades, persistent progression after reloading, and fireball, lightning beam, and arcane-shard abilities.
 
-### Hybrid Version Control Workflow
-To maintain a high-performance development environment for Unreal Engine, we utilize a hybrid version control strategy:
-*   **Diversion (Primary VCS):** Manages the full project, including large binary assets (.uassets, .umaps, textures, and meshes).
-*   **GitHub (Source Mirror):** Dedicated to tracking C++ source code, project configuration, and architecture for public review and portfolio transparency.
+## Technical Overview
 
----
+This repository is a source-code only showcase for the Unreal Engine project. It contains C++ source files for reviewing the project’s code structure and gameplay implementation.
 
-## 🚀 Key Features (C++ / GAS)
+The full Unreal Engine project, maps, Marketplace/Fab assets, and other binary content are managed separately through Diversion source control and are not included in this public repository.
 
-** Coming Soon **
+## Tools and Assets
 
----
+Uses licensed Fab/Marketplace character, environment, animation, and visual-effect assets.
 
-## 📂 Repository Structure
+## Viewing the Code
 
-** Coming Soon **
+Because the full binary Unreal Engine project content is managed separately, this repository is not intended to be built or run as a standalone project.
+
+To review the implementation navigate to the [`Source`](./Source) directory for C++ gameplay code.
 
 ---
-
-## 🛠️ Setup & Viewing
-Because the binary assets (meshes, maps, materials) are managed via **Diversion**, this repository cannot be run as a standalone project without the associated assets.
-
-**To review the implementation:**
-1.  Navigate to the `Source/` folder to view the C++ implementation.
-2.  Refer to the [Gameplay Video]([REPLACE_WITH_YOUR_YOUTUBE_LINK]) to see these systems in action.
-
----
-
-
-## 📮 Contact
 
 **John Wright**
 
