@@ -2,6 +2,8 @@
 
 A top-down RPG project built in Unreal Engine 5 using C++ and Blueprints. The project features enemy combat, experience progression, save-slot creation and loading, persistent player progression, and unlockable and upgradeable abilities.
 
+Developed by following Stephen Ulibarri’s Unreal Engine Gameplay Ability System course.
+
 ## Gameplay Demo
 
 [▶ Watch the gameplay demo on YouTube](https://youtu.be/zAmgGT9Vd3M)
